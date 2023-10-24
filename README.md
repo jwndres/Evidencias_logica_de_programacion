@@ -33,10 +33,10 @@ plugins:
 
 title: Documentación
 
-nombres: Nombres y Apellidos
+nombres: Juan Andres Carmona Henao
 submodulo: Lógica de Programación
 periodo: 2023-2
-url_foto:  Enlace a la imagen
+url_foto:  https://www.facebook.com/photo/?fbid=10159370357488141&set=a.429855613140
 ```
 
 ### 3. Actualizar contenido
