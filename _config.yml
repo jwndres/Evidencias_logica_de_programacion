@@ -1,10 +1,10 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Evidencias
 
 nombres: Juan Andres Carmona Henao
-submodulo: Lógica de Programación
+submodulo: Programacion para la web 2
 periodo: 2023-2
 url_foto: https://xduhmvaeoboiqltkvunt.supabase.co/storage/v1/object/sign/img/IMG_20230626_193329.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWcvSU1HXzIwMjMwNjI2XzE5MzMyOS5qcGciLCJpYXQiOjE2OTgwMjY4MjQsImV4cCI6MTc5MjYzNDgyNH0.-sFJGndK3OLeXnB3bVf7cF0jnXtJ5Z5SD4yC6Luq1qs&t=2023-10-23T02%3A07%3A03.185Z
